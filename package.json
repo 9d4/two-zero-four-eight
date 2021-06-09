@@ -4,7 +4,7 @@
   "description": "2048 🙃",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "start": "http-server -p 9000"
   },
   "repository": {
     "type": "git",
@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/traperwaze/two-zero-four-eight/issues"
   },
-  "homepage": "https://github.com/traperwaze/two-zero-four-eight#readme"
+  "homepage": "https://github.com/traperwaze/two-zero-four-eight#readme",
+  "devDependencies": {
+    "http-server": "^0.12.3"
+  }
 }
