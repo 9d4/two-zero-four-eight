@@ -1,0 +1,20 @@
+{
+  "name": "two-zero-four-eight",
+  "version": "1.0.0",
+  "description": "2048 🙃",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/traperwaze/two-zero-four-eight.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/traperwaze/two-zero-four-eight/issues"
+  },
+  "homepage": "https://github.com/traperwaze/two-zero-four-eight#readme"
+}
